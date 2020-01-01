@@ -1,4 +1,4 @@
-const wpi = require('node-wiring-pi');
+const wpi = require('wiringpi-node');
 
 
 const sysfs = require('./lib/readExports.js');
